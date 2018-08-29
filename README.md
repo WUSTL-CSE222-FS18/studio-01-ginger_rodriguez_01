@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Nathaniel Rodriguez
+Ginger Burrows
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,9 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+Mission Card: Safekeeping.
+* A bike that alerts you when it has moved while you're not around.
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
