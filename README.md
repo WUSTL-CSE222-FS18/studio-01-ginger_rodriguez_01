@@ -1,3 +1,4 @@
+
 # Studio 1
 
 As with Studio 0, insert your answers to the questions in this document where indicated (and in the format requested).
