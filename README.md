@@ -129,12 +129,45 @@ Part of the goal of today's studio was to provide you some "menus" for:
   * User-friendly
     * How easy is the product to use?
 - Things
-  *
+  * wallet
+    * something to hold your money and cards
+  * watch
+    * a way to tell time
+  * glasses
+    * something you wear to improve your vision
 - Services
+  * Weather
+    * data from a service that predicts the weather
+  * Facebook
+    * a website/app that helps you keep in touch with friends
+  * instagram
+    * an app that lets you share photos with friends
 - Feedback
+  * critique
+    * something that could be improved
+  * compliment
+    * something that is especially good
+  * dislike
+    * something that is not satisfactory
 - Human Actions
+  * Shake
+    * user shakes an object
+  * Throw
+    * user throws an object
+  * drop
+    * user drops an object
 - Missions
+  * Responsibility
+    * create an object that helps remind you of what you have to do
+  * Teleportation
+    * Create an object that allows you to travel somewhere else
+  * Obstacles
+    * Create an object that makes a task harder
 
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+- Mission
+  * Focus: create an object that helps to keep you on task
+  * Invisibility: create an object that helps you escape from notice
